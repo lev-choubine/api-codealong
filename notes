@@ -1,0 +1,25 @@
+build the html of the site and the input
+present the info from the api on the dom
+ -present the info from the api on the dom
+   -book cover, author, tittle
+   -build functions to generate functions and then append them
+
+
+access the library api
+  - hardcode the category first
+http://thedomain.com/this/is/the/patch?foo=bar
+
+"ebook_count": 4500,
+works.length
+works[randomIndex];
+
+  - postman
+  - create the fetch
+
+function that returns the random book
+
+wire up the input
+
+
+
+
